@@ -1,3 +1,6 @@
 [submodule "shawnlawsonModule"]
 	path = shawnlawsonModule
 	url = https://github.com/shawnlawson/shawnmodule.git
+[submodule "johnConover"]
+	path = johnConover
+	url = https://github.com/jbcon/ShadeMe.git
