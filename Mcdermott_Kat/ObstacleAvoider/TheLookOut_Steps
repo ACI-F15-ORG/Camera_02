@@ -1,0 +1,36 @@
+
+Goal:
+
+Create an device that helps you avoid obstacles so that you can walk while continously staring at your cellphone. 
+
+Plan:
+
+Use 3 vibration motors (from electric toothbrushes, or cellphones) to vibrate when there is an obstacle. Motors placed on left of hand, back of hand, and right of hand. 
+
+Search for the largest obstacle in your path with Kinect and vibrate in that direction, so you know something big is there.
+
+Code:
+
+After kinect setup etc, set the depth to only see things closer to the wearer, because those are the things are in danger of walking into.
+
+Divide the kinect's plane into 3 zones.
+
+Find the largest blob using contour tracking with openCV
+
+Identify which zone the largest blob is in.
+
+Write the digital arduino pin high, for the motor that corresponds with that zone (left, right, or front) 
+
+Arduino code:
+
+Standard firmata, make sure to select Nano board. Also note the usb title is different with this board, so change accordingly in OF.
+
+Wiring:
+
+The vibration motors don't have a communication pin, so they are controlled through transittors. Picture attached. The diodes ensures that there will be no back-flow voltage, so our motor doesn't get fried. 
+
+The Kinect gets strapped to the body. 
+
+Reflection:
+
+It's works well as a first draft (for larger piece) I wish the kinect could see even closer to itself. I also am not sure if there is any way to make it mobile. Probably would mean building a smaller, crappier version of kinect from scratch? And would run OF on Raspberry Pi. Visually, I would like it to look more absurd somehow... I imagined the whole thing being attached to hand, like camera on back of hand too... but camera on waist actually makes more sense in terms of figuring out where the body is in space... Hijacking the camera thats in the cell phone itself is another possible way to go, but again, might be too visually discreet.     
