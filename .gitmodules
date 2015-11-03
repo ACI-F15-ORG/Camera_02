@@ -1,3 +1,6 @@
 [submodule "shawnlawsonModule"]
 	path = shawnlawsonModule
 	url = https://github.com/shawnlawson/shawnmodule.git
+[submodule "hul6"]
+	path = hul6
+	url = https://github.com/Kirstihly/ACI_3.git
