@@ -4,3 +4,6 @@
 [submodule "hul6"]
 	path = hul6
 	url = https://github.com/Kirstihly/ACI_3.git
+[submodule "loki_camera_submodule"]
+	path = loki_camera_submodule
+	url = https://github.com/rasmul2/loki_camera_submodule
