@@ -1,6 +1,12 @@
 [submodule "shawnlawsonModule"]
 	path = shawnlawsonModule
 	url = https://github.com/shawnlawson/shawnmodule.git
+[submodule "kevinkortright"]
+	path = kevinkortright
+	url = https://github.com/sirkevin813/Kinectball.git
+[submodule "john"]
+	path = john
+	url = https://github.com/jbcon/ShadeMe.git
 [submodule "hul6"]
 	path = hul6
 	url = https://github.com/Kirstihly/ACI_3.git
@@ -17,3 +23,12 @@
 [submodule "Marina_Ariel_Module"]
 	path = Marina_Ariel_Module
 	url = https://github.com/MarinaEspinoza/ACI_Project2.git
+[submodule "McDermottModule"]
+	path = McDermottModule
+	url = https://github.com/mcderk3/KatMcDermott.git
+[submodule "zaran"]
+	path = zaran
+	url = https://github.com/zlalvani/player-vs-sound.git
+[submodule "vogelm"]
+	path = vogelm
+	url = https://github.com/8bitgentleman/ACIKinect.git
