@@ -20,6 +20,9 @@
 [submodule "mwdewey"]
 	path = mwdewey
 	url = https://github.com/mwdewey/KinectFacePunch.git
+[submodule "Marina_Ariel_Module"]
+	path = Marina_Ariel_Module
+	url = https://github.com/MarinaEspinoza/ACI_Project2.git
 [submodule "McDermottModule"]
 	path = McDermottModule
 	url = https://github.com/mcderk3/KatMcDermott.git
@@ -29,4 +32,3 @@
 [submodule "vogelm"]
 	path = vogelm
 	url = https://github.com/8bitgentleman/ACIKinect.git
-
