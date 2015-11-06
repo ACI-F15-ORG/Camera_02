@@ -26,4 +26,7 @@
 [submodule "zaran"]
 	path = zaran
 	url = https://github.com/zlalvani/player-vs-sound.git
+[submodule "vogelm"]
+	path = vogelm
+	url = https://github.com/8bitgentleman/ACIKinect.git
 
