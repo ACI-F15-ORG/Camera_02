@@ -20,6 +20,10 @@
 [submodule "mwdewey"]
 	path = mwdewey
 	url = https://github.com/mwdewey/KinectFacePunch.git
+[submodule "McDermottModule"]
+	path = McDermottModule
+	url = https://github.com/mcderk3/KatMcDermott.git
 [submodule "zaran"]
 	path = zaran
 	url = https://github.com/zlalvani/player-vs-sound.git
+
