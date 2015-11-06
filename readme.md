@@ -57,7 +57,7 @@ git commit -a -m 'adding submodule'
 You'll need to push your branch to the remote.
 
 ```bash
-git push
+git push origin your-branch-name
 ```
 You may run up against a GIT 2.0 error. 
 http://stackoverflow.com/questions/13148066/warning-push-default-is-unset-its-implicit-value-is-changing-in-git-2-0
