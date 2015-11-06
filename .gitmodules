@@ -1,6 +1,9 @@
 [submodule "shawnlawsonModule"]
 	path = shawnlawsonModule
 	url = https://github.com/shawnlawson/shawnmodule.git
+[submodule "kevinkortright"]
+	path = kevinkortright
+	url = https://github.com/sirkevin813/Kinectball.git
 [submodule "john"]
 	path = john
 	url = https://github.com/jbcon/ShadeMe.git
