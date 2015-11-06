@@ -4,3 +4,13 @@
 [submodule "john"]
 	path = john
 	url = https://github.com/jbcon/ShadeMe.git
+[submodule "hul6"]
+	path = hul6
+	url = https://github.com/Kirstihly/ACI_3.git
+	ignore = dirty
+[submodule "loki_camera_submodule"]
+	path = loki_camera_submodule
+	url = https://github.com/rasmul2/loki_camera_submodule
+[submodule "andrewfaulds"]
+	path = andrewfaulds
+	url = https://github.com/faulda/dodge_the_circles.git
