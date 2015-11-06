@@ -8,3 +8,6 @@
 [submodule "loki_camera_submodule"]
 	path = loki_camera_submodule
 	url = https://github.com/rasmul2/loki_camera_submodule
+[submodule "slawsonAwesomeModule"]
+	path = slawsonAwesomeModule
+	url = https://github.com/shawnlawson/slawsonModule.git
