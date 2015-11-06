@@ -11,3 +11,6 @@
 [submodule "andrewfaulds"]
 	path = andrewfaulds
 	url = https://github.com/faulda/dodge_the_circles.git
+[submodule "zaran"]
+	path = zaran
+	url = https://github.com/zlalvani/player-vs-sound
