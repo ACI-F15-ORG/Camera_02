@@ -32,3 +32,6 @@
 [submodule "vogelm"]
 	path = vogelm
 	url = https://github.com/8bitgentleman/ACIKinect.git
+[submodule "kelly"]
+	path = kelly
+	url = https://github.com/kmichaelfox/kinopulse.git
