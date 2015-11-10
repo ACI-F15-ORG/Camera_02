@@ -40,6 +40,9 @@
 [submodule "kelly"]
 	path = kelly
 	url = https://github.com/kmichaelfox/kinopulse.git
+[submodule "andrewCage"]
+	path = andrewCage
+	url = https://github.com/unonu/ghosting
 [submodule "gerlichSubmodule"]
 	path = gerlichSubmodule
 	url = https://github.com/alexgerlich/videoProject.git
