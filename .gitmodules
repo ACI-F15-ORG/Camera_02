@@ -46,3 +46,6 @@
 [submodule "gerlichSubmodule"]
 	path = gerlichSubmodule
 	url = https://github.com/alexgerlich/videoProject.git
+[submodule "griffb2"]
+	path = griffb2
+	url = https://github.com/griffb2/TheWalkingHand.git
